@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MD YOUSUF AZAM </h1>
 <h3 align="center">Developing AI</h3>
 
-- 🌱 I’m currently learning **DSA**
+-  → currently learning **DSA**
 
-- ⚡ Fun fact **It was executed.**
+-  → Fun fact **It was executed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
