@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA**
 
-- ⚡ Fun fact **Curious in Knowing**
+- ⚡ Fun fact **Curious in Knowing IAM**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
