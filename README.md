@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MD YOUSUF AZAM </h1>
+<h1 align="center">Hi 👋, I'm MYA </h1>
 <h3 align="center">Developing AI</h3>
 
 -  → currently learning **DSA**
