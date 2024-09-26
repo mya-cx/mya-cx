@@ -3,7 +3,7 @@
 
 -  → currently learning **DSA**
 
--  → Fun fact **It was executed.**
+-  → **It was executed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
