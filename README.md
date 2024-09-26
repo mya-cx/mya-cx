@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm MYA </h1>
 <h3 align="center">Developing AI</h3>
 
--  → currently learning **DSA**
+  → currently learning **DSA**
 
--  → **It was executed.**
+  → **It was executed.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
